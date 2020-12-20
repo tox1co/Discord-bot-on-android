@@ -1,9 +1,9 @@
-#Termux
+# Termux
 
-##download
+## download
 podes instalar termux [Aqui](https://play.google.com/store/apps/details?id=com.termux&hl=es_PE&gl=US)
 
-##importante
+## importante
 - si les hace la pregunta  `Do you continue? [y/n]`
 es para preguntar si deseas continuar con la instalacion de los paquetes
     - y => yes
@@ -19,7 +19,7 @@ es para preguntar si deseas continuar con la instalacion de los paquetes
 
 
 
-##instalaciones
+## instalaciones
 - Primero necesitamos darle permisos de almacenamiento.
 ```
 $ termux-setup-storage
