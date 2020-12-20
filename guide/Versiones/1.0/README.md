@@ -5,7 +5,7 @@ supongo que ya lo saben pero en un proximo commit lo agrego
 
 ***ruta actual*** `/data/data/com.termux/files/home`
 
-##inicio
+## inicio
 bueno primero creamos la carpeta donde estara todo el bot
 ```
 $ cd bot
@@ -93,4 +93,4 @@ client.login("Token");
 ```
 remplaza `Token` por el token de su bot
 
-podes ver el codigo [Aqui](https://github.com/tox1co/Discord-bot-on-android/blob/main/guide/Versiones/i.0/index.js)
+podes ver el codigo [Aqui](https://github.com/tox1co/Discord-bot-on-android/blob/main/guide/Versiones/1.0/index.js)
